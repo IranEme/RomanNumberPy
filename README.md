@@ -16,7 +16,7 @@ Este proyecto es un conversor de números romanos a enteros y viceversa, escrito
 
 ## ⚙️ Instalación
 ```sh
-git clone https://github.com/tuusuario/roman-converter.git
+git clone https://github.com/IranEme/RomanNumberPy
 cd roman-converter
 ```
 
