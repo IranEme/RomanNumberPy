@@ -17,12 +17,12 @@ Este proyecto es un conversor de números romanos a enteros y viceversa, escrito
 ## ⚙️ Instalación
 ```sh
 git clone https://github.com/IranEme/RomanNumberPy
-cd roman-converter
+cd RomanNumberPy
 ```
 
 ## 🚀 Uso
 ```sh
-python roman_converter.py
+python roman.py
 ```
 
 ## 🔍 Ejemplos
