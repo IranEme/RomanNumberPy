@@ -37,6 +37,6 @@ En romano es: XV
 
 ## 👤 Autor
 ```txt
-Juan Iran Lopez Mercado
+Juan Irán Lopez Mercado
 ```
 
